@@ -89,6 +89,7 @@ pytest tests/ -v
 MIT
 
 
+
 ---
 
 ## Free vs Pro
@@ -109,7 +110,8 @@ MIT
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://propathacademy.gumroad.com/l/wcvpeue)**
+**[Get Pro Version](https://buy.stripe.com/eVq9AT9z91g0aNO8nGcZg0Q)**
 
+- [Buy Now (Stripe)](https://buy.stripe.com/eVq9AT9z91g0aNO8nGcZg0Q)
 - [Buy on Gumroad](https://propathacademy.gumroad.com/l/wcvpeue)
 
